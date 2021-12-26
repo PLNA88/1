@@ -29,7 +29,6 @@ public class Main {
         System.out.print("Podaj swój indeks: ");
         Scanner liczbaIndeks = new Scanner(System.in);
         int indeks = liczbaIndeks.nextInt();
-        System.out.print("\n");
 
         System.out.println("zad. 1b");
         System.out.println("imię: "+imie+", nazwisko: "+nazwisko+", wiek: "+wiek+", indeks: "+indeks);
